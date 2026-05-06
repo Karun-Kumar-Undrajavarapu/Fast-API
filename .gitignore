@@ -1,0 +1,5 @@
+terraform/
+aws/
+awscliv2.zip
+__pycache__/
+.env
